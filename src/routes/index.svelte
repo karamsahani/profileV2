@@ -4,6 +4,7 @@
 <svelte:head>
   <title>Meet Dholaria</title>
 </svelte:head>
+
 <div>
   <div class="hero">
     <div class="hero-content flex-col lg:flex-row-reverse">
@@ -33,9 +34,3 @@
     </div>
   </div>
 </div>
-
-<footer class="footer footer-center p-4 text-base-content">
-  <div>
-    <p>Copyright © 2022 - All right reserved by Meet Dholaria</p>
-  </div>
-</footer>
